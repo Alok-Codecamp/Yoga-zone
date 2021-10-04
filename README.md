@@ -6,6 +6,6 @@ Website Live link:  (https://yoga-zone.netlify.app/).
 
 ## Through this website, members can be easily contacted and admitted to the Yoga Training Center in the Yoga Zone.
 
-##  notun sodosso ra website visit kore sohojei course er niyom ebong fee somporke jante pare. 
+##  New members can easily learn about the course rules and fees by visiting the website.
 
 
