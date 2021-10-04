@@ -1,0 +1,7 @@
+.btn-backHome{
+    background-color: tomato;
+    border: none;
+    border-radius: 15px;
+    position: relative;
+    bottom: 40px;
+}

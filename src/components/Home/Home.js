@@ -14,13 +14,13 @@ const Home = () => {
     },[])
       const sliceData=data.slice(0,4);
     return (
-        <div className="">
+        <div className="Body">
             <Slider className="slider"></Slider>
            <div className="my-5 mx-5 ">
            <Row xs={1} md={2} lg={4} className="g-4">
       
            {
-               sliceData.map(data=><Col>
+               sliceData.map(data=><Col key={data.id}>
                <HomeCard 
                key={data.id}
                data={data}

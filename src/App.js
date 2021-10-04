@@ -6,6 +6,7 @@ import Home from './components/Home/Home';
 import Footer from './components/Footer/Footer';
 import Classes from './components/Classes/Classes';
 import Courses from './components/Courses/Courses';
+import NotFound from './components/NotFound/NotFound';
 
 function App() {
   return (
@@ -29,7 +30,7 @@ function App() {
         <About></About>
       </Route>
       <Route path="*">
-
+        <NotFound></NotFound>
       </Route>
      </Switch>
      <Footer></Footer>

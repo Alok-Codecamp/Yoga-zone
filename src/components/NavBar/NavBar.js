@@ -7,7 +7,7 @@ import img from '../../logo.png'
 const NavBar = () => {
     return (
         <div>
-             <Navbar collapseOnSelect expand="lg" bg="dark" variant="dark">
+             <Navbar  collapseOnSelect expand="lg" bg="dark" variant="dark">
   <Container>
   <Navbar.Brand >
   <NavLink to="/home" className="link-style">

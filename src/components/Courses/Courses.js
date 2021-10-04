@@ -17,7 +17,7 @@ const Courses = () => {
             <Row xs={1} md={2} lg={4} className="g-4">
             {
                 courses.length===0?num.map(render=><Col>
-                <Loading></Loading></Col>)
+                <Loading key={render}></Loading></Col>)
                 :
                 courses.map(course=><Col>
                 <Course
