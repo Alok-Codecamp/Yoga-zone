@@ -1,11 +1,12 @@
 import React from 'react';
 import { Button, Card } from 'react-bootstrap';
+import './Course.css'
 
 const Course = (props) => {
   const {package_name, tutor_name,package_detail, Lesson,student, price,thumbnail}=props.course;
     return (
-        <div>
-            <Card>
+        <div className="card">
+            <Card bg="hot-pink">
         <Card.Img variant="top" src={thumbnail} />
         <Card.Body>
           <Card.Title>{package_name}</Card.Title>
@@ -21,7 +22,7 @@ const Course = (props) => {
        </div>
         <div>
         <p>Price: {price}</p>
-        <Button>Course detail</Button>
+        <Button variant="success">Course detail</Button>
         </div>
       </div>
       </Card>
