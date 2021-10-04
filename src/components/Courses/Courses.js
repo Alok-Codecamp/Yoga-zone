@@ -14,6 +14,7 @@ const Courses = () => {
         const num=[1,2,3,4,5,6,7,8,9,10,11,12,13,14,15]
     return (
         <div className="my-5 ">
+            <h1 className="mb-5 text-success">explorer Our courses</h1>
             <Row xs={1} md={2} lg={4} className="g-4">
             {
                 courses.length===0?num.map(render=><Col>

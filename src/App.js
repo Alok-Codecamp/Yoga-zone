@@ -4,7 +4,6 @@ import Header from './components/Header/Header';
 import About from './components/About/About';
 import Home from './components/Home/Home';
 import Footer from './components/Footer/Footer';
-import Classes from './components/Classes/Classes';
 import Courses from './components/Courses/Courses';
 import NotFound from './components/NotFound/NotFound';
 import SignIn from './components/SignIn/SignIn';
@@ -21,9 +20,6 @@ function App() {
       <Route path="/home">
         <Home></Home>
       </Route>
-      <Route path="/classes">
-        <Classes></Classes>
-        </Route>
         <Route path="/courses">
             <Courses></Courses>
           </Route>

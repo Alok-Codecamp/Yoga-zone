@@ -1,5 +1,7 @@
 .footer-container{
-    background-color: black;
+    margin-top: 50px;
+    padding: 20px;
+    background-color:lightslategray;
     color: white;
    
 }
