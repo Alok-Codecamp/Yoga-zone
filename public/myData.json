@@ -1,0 +1,162 @@
+[
+    {
+        "id": 1,
+        "package_name": "BIKRAM YOGA ",
+        "tutor_name": "Danial Frankie",
+        "Lesson":13,
+        "student": 56,
+        "price": "$374",
+        "package_detail": "Bikram yoga, developed by a yogi named Bikram Choudhury, is done in a room heated to 105°F (41°C) with 40 percent humidity. It consists of 26 poses and two breathing exercises that are done in the same order in every class.",
+        "thumbnail": "https://image.freepik.com/free-photo/portrait-young-beautiful-sportive-girl-white-background_176420-5493.jpg"
+    },
+    {
+        "id": 2,
+        "package_name": "Hatha Yoga ",
+        "tutor_name": "Heidi Kristoffer",
+        "Lesson":16,
+        "student": 82,
+        "price": "$212",
+        "package_detail": "Traditionally, hatha yoga is a catchall term for any type of yoga that pairs poses (asanas) with breathing techniqu Essentially, many of the yoga styles that are popular in the U.S.—like ashtanga, restorative, vinyasa, Iyengar, etc.",
+        "thumbnail": "https://image.freepik.com/free-photo/woman-sitting-yoga-pose-beach_1098-1454.jpg"
+    },
+    {
+        "id": 3,
+        "package_name": "Karma Yoga ",
+        "tutor_name": "Elena Brower ",
+        "Lesson":9,
+        "student": 48,
+        "price": "$200",
+        "package_detail": "Karma yoga is one of the four classical schools of yoga alongside Jnana (knowledge or self-study), Bhakti (devotion) and Raja (meditation), each offering a path to moksha (spiritual liberation) and self-realization. ... In yoga, karma is known as the path of action, or selfless service towards others.",
+        "thumbnail": "https://image.freepik.com/free-photo/studio-shot-slim-girl-claps-hands-does-arm-balance-exercises-works-out-loft-interior-keeps-diet-has-healthy-lifestyle_176532-9735.jpg"
+    },
+    {
+        "id": 4,
+        "package_name": "Tantra Yoga ",
+        "tutor_name": "Tiffany Cruikshank",
+        "Lesson":8,
+        "student": 90,
+        "price": "$330",
+        "package_detail": "Tantric yoga is a form of yoga practice that's aligned with tantra, an ancient spiritual practice originating in India, Tibet, and other parts of Asia. ... Tantra means  in Sanskrit, and classical tantra all about reaching spiritual enlightenment through connecting with your energy.",
+        "thumbnail": "https://image.freepik.com/free-photo/young-woman-bow-exercise_1163-5061.jpg"
+    },
+    {
+        "id": 5,
+        "package_name": "Bhakti Yoga ",
+        "tutor_name": "Noah Maze",
+        "Lesson":22,
+        "student": 160,
+        "price": "$400",
+        "package_detail": "Bhakti yoga, also called Bhakti marga (literally the path of Bhakti), is a spiritual path or spiritual practice within Hinduism focused on loving devotion towards any personal deity. ... Bhakti is mentioned in the Shvetashvatara Upanishad where it simply means participation, devotion and love for any endeavor.",
+        "thumbnail": "https://image.freepik.com/free-photo/young-woman-doing-yoga-white-background_231208-10249.jpg"
+    },
+    {
+        "id": 6,
+        "package_name": "Power Yoga ",
+        "tutor_name": "Kathryn Budig",
+        "Lesson":18,
+        "student": 66,
+        "price": "$210",
+        "package_detail": "Power Yoga is a fitness-based vinyasa practice. An offshoot of Ashtanga Yoga, it has many of the same qualities and benefits, including building internal heat, increased stamina, strength, and flexibility, as well as stress reduction.",
+        "thumbnail": "https://image.freepik.com/free-photo/concept-yoga-handsome-man-doing-yoga-exercise-isolated-white-background_231208-8218.jpg"
+    },
+    {
+        "id": 7,
+        "package_name": " Vinyasa Yoga",
+        "tutor_name": "Seane Corn",
+        "Lesson":16,
+        "student": 64,
+        "price": "$350",
+        "package_detail": "Vinyasa is a style of yoga characterized by stringing postures together so that you move from one to another, seamlessly, using breath. Commonly referred to as “flow” yoga, it is sometimes confused with “power yoga“. Vinyasa classes offer a variety of postures and no two classes are ever alike.",
+        "thumbnail": "https://image.freepik.com/free-photo/young-woman-doing-half-lotus-toe-balance-exercise_1163-5069.jpg"
+    },
+    {
+        "id": 8,
+        "package_name": " Anasura yoga",
+        "tutor_name": "Baron Baptiste",
+        "Lesson":14,
+        "student": 60,
+        "price": "$410",
+        "package_detail": "Anusara yoga is a modern-day Hatha yoga system founded by John Friend. Anusara means “flowing with grace,” “going with the flow,” “following your heart.” ... Anusara emphasizes “Universal Principles of Alignment” as the focal point of its practice, which underlie all of the physical asanas.",
+        "thumbnail": "https://img.freepik.com/free-photo/man-practicing-yoga-mat-home_1303-26980.jpg?size=338&ext=jpg"
+    },
+    {
+        "id": 9,
+        "package_name": " Kundalini Yoga",
+        "tutor_name": "Ashley Turner",
+        "Lesson":25,
+        "student": 40,
+        "price": "$220",
+        "package_detail": "Kundalini yoga is a form of yoga that involves chanting, singing, breathing exercises, and repetitive poses. Its purpose is to activate your Kundalini energy, or shakti. This is a spiritual energy that's said to be located at the base of your spine. ... Sometimes, the practice is also called “yoga of awareness.",
+        "thumbnail": "https://img.freepik.com/free-photo/side-view-woman-doing-yoga-outdoors_23-2148769556.jpg?size=338&ext=jpg"
+    },
+    {
+        "id": 10,
+        "package_name": "Pranayama yoga ",
+        "tutor_name": "Jason Crandell",
+        "Lesson":18,
+        "student": 82,
+        "price": "$250",
+        "package_detail": "Pranayama is the practice of breath regulation. It's a main component of yoga, an exercise for physical and mental wellness. In Sanskrit, “prana” means life energy and “yama” means control. The practice of pranayama involves breathing exercises and patterns.",
+        "thumbnail": "https://img.freepik.com/free-photo/young-woman-stretching-floor-as-morning-drill-develop-flexibility_1098-20278.jpg?size=338&ext=jpg"
+    },
+    {
+        "id": 11,
+        "package_name": "Ardha yoga",
+        "tutor_name": "Kia Miller",
+        "Lesson":12,
+        "student": 80,
+        "price": "$600",
+        "package_detail": "What is Ardha Matsyendrasana Yoga? The word “Ardha Matsyendrasana” has been derived from Sanskrit and it translates as “Half Lord of the Fishes Pose",
+        "thumbnail": "http://yog.gentechtree.com/wp-content/uploads/2021/04/5-6-1.jpg"
+    },
+    {
+        "id": 12,
+        "package_name": "Parivritta yoga",
+        "tutor_name": "Edlyn",
+        "Lesson":16,
+        "student": 120,
+        "price": "$260",
+        "package_detail": "There’s no way around it: In the canon of standing poses, Parivrtta Trikonasana (Revolved Triangle Pose) is one of the most challenging. But it provides a wonderful opportunity to build concentration and awareness—to develop",
+        "thumbnail": "http://yog.gentechtree.com/wp-content/uploads/2021/04/8-2-1.jpg"
+    },
+    {
+        "id": 13,
+        "package_name": "Prasarita yoga",
+        "tutor_name": "Charles Matkin",
+        "Lesson":26,
+        "student": 50,
+        "price": "$500",
+        "package_detail": "Lengthens and strengthens your hamstrings, calves, feet, and spine; calms your mind and promotes introspection; helps relieve headaches",
+        "thumbnail": "http://yog.gentechtree.com/wp-content/uploads/2021/04/9-1-1.jpg"
+    },
+    {
+        "id": 14,
+        "package_name": "Salamba yoga",
+        "tutor_name": "Karina Ayn Mirsky",
+        "Lesson":28,
+        "student": 86,
+        "price": "$260",
+        "package_detail": "The word Salamba means supported. Salamba yoga was founded with the idea of providing sound support in your journey to become a yoga",
+        "thumbnail": "http://yog.gentechtree.com/wp-content/uploads/2021/04/10-1-1.jpg"
+    },
+    {
+        "id": 15,
+        "package_name": "Supta yoga",
+        "tutor_name": "Alanna Kaivalya",
+        "Lesson":12,
+        "student": 42,
+        "price": "$420",
+        "package_detail": "The pose is entered by lying down on one's back, raising one leg and grasping the big toe with the hand on the same side. The opposite leg is stretched straight out on the ground, and the opposite hand rests on the top of the thigh. A variant is to turn",
+        "thumbnail": "http://yog.gentechtree.com/wp-content/uploads/2021/04/2-11-1.jpg"
+    },
+    {
+        "id": 16,
+        "package_name": "Upavishta yoga",
+        "tutor_name": "Monique Schubert",
+        "Lesson":12,
+        "student":46,
+        "price": "$210",
+        "package_detail": "The pose may be entered from dandasana (staff pose) by moving the legs apart as far as possible. The big toes may then be grasped with the hands, or with a belt around each foot. The back is lightly arched by raising the coccyx, and the body",
+        "thumbnail": "http://yog.gentechtree.com/wp-content/uploads/2021/04/3-12-1.jpg"
+    } 
+]
