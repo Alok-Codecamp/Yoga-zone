@@ -7,7 +7,6 @@ import Footer from './components/Footer/Footer';
 import Courses from './components/Courses/Courses';
 import NotFound from './components/NotFound/NotFound';
 import SignIn from './components/SignIn/SignIn';
-
 function App() {
   return (
     <div className="App">

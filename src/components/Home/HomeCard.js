@@ -5,7 +5,7 @@ const HomeCard = (props) => {
 
   return (
     
-        <Card>
+        <Card className="text-success">
           <Card.Img variant="top" src={thumbnail} />
           <Card.Body>
             <Card.Title>{package_name}</Card.Title>

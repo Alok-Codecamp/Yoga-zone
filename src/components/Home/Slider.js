@@ -1,46 +1,46 @@
 import React from 'react';
 import { Carousel } from 'react-bootstrap';
 import './slider.css'
-import slider1  from '../../Images/slider1.jpg'
-import slider2  from '../../Images/slider2.jpg'
-import slider3  from '../../Images/slider3.jpg'
 const Slider = () => {
     return (
-        <Carousel>
+        <div className="my-slider">
+          <Carousel>
         <Carousel.Item interval={1000}>
           <img
             className="d-block w-100"
-            src={slider1}
+            src="https://www.blueosa.com/wp-content/uploads/2020/07/15705495207_9917c24488_z.jpg"
             alt="First slide"
           />
           <Carousel.Caption>
-            <h3>Learn with us</h3>
+          
             <p>It is our mission to enrich your life with unforgettable yoga teacher training experiences</p>
           </Carousel.Caption>
         </Carousel.Item>
         <Carousel.Item interval={500}>
           <img
             className="d-block w-100"
-            src={slider2}
+            src="https://www.blueosa.com/wp-content/uploads/2020/07/15271579893_ec691ddd8a_z.jpg"
             alt="Second slide"
           />
           <Carousel.Caption>
-            <h3>Learn with us</h3>
-            <p>It is our mission to enrich your life with unforgettable yoga teacher training experiences</p>
+           
+            <p>It’s always exciting to see what comes out of the Yoga zone Kitchen!
+               Today the boys surprised us with nutritious and delicious pizza day!!</p>
           </Carousel.Caption>
         </Carousel.Item>
         <Carousel.Item>
           <img
             className="d-block w-100"
-            src={slider3}
+            src="https://www.blueosa.com/wp-content/uploads/2020/07/15271576433_2eed5ce681_z.jpg"
             alt="Third slide"
           />
           <Carousel.Caption>
-            <h3>Learn with us</h3>
-            <p>It is our mission to enrich your life with unforgettable yoga teacher training experiences</p>
+          
+            <p>We’ve had some incredible classes so far. I can’t wait to see what these students come up with next!</p>
           </Carousel.Caption>
         </Carousel.Item>
       </Carousel>
+        </div>
     );
 };
 
